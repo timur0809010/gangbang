@@ -1,0 +1,53 @@
+.logo{
+	width: 250	px;
+	height: 100px;
+}
+
+body{
+	background-color:#5289ff;
+	user-select: none; /* Отключает выделение текста */
+}
+.center {
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Comic Sans MS';
+	color: white;
+
+}
+.rules {
+	color: black;
+	font-size:16px;
+}
+
+h2 {
+	font-family: 'Comic Sans MS';
+	color: white;
+
+}
+
+.box {
+	background-color: #5275ff;
+	text-align: center;
+	align-content: center;
+}
+
+.kart {
+	rotate: 350deg;
+
+}
+.kart2 {
+	rotate: 15deg;
+
+}
+
+.pages {
+	background-color: #5275ff;
+	text-align: center;
+	align-content: center;
+}
+
+.page {
+	color:black;
+}
